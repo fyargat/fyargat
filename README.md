@@ -1,4 +1,4 @@
-![Justin Caovan (4)](https://user-images.githubusercontent.com/61437879/141415998-38d64d14-aa7d-4abe-aa02-f865f20966f9.png)
+<!-- ![Justin Caovan (4)](https://user-images.githubusercontent.com/61437879/141415998-38d64d14-aa7d-4abe-aa02-f865f20966f9.png) -->
 
 <h1 align='center'>:v: Hi, I'm Fyargat!</h1>
 
