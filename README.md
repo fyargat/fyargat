@@ -20,15 +20,16 @@
 <!-- * 📫   Best way to reach me: justincaovan@gmail.com -->
 
 ## Languages and Tools:
-<!-- ![reactjs-line](https://user-images.githubusercontent.com/61437879/132145701-1a81dcbb-9abe-497f-8c39-9d411597c77c.png) -->
-<!-- ![cactus-fill](https://user-images.githubusercontent.com/61437879/132145913-92a0dcb5-1941-4d38-809e-40d4f7a9ba07.png) -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) -->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- ![reactjs-line](https://user-images.githubusercontent.com/61437879/132145701-1a81dcbb-9abe-497f-8c39-9d411597c77c.png) -->
+<!-- ![cactus-fill](https://user-images.githubusercontent.com/61437879/132145913-92a0dcb5-1941-4d38-809e-40d4f7a9ba07.png) -->
+<!-- ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) -->
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
